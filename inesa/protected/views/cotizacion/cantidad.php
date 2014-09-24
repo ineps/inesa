@@ -1,0 +1,1 @@
+<?php $this->renderPartial('_form_cantidad', array('model'=>$model)); ?>
